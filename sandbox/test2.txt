@@ -1,1 +1,2 @@
 "Hello Git!"
+"Dodaję kolejną linijkę 2"
